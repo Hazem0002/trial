@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi
+=======
+hi
+how r u
+>>>>>>> feature_1
