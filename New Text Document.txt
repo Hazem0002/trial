@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi
 =======
 hi
 how r u
 >>>>>>> feature_1
+=======
+hi
+iam hazem
+>>>>>>> feature_2
